@@ -1,9 +1,9 @@
 # Assignment 2 — Genetic Algorithm: Knapsack Problem
 ## Observation Report
 
-**Student Name  :** Awaiz
-**Student ID    :** 2310040038 
-**Date Submitted:** 25-03-2026 
+**Student Name  :** Shaik Mohammad Awaiz  
+**Student ID    :** 2310040038  
+**Date Submitted:** 25-03-2026  
 
 ---
 
